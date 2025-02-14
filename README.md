@@ -15,7 +15,7 @@ This portfolio was an **experimental project** to apply my **HTML and CSS** skil
 
 ## 🚀 Live Demo  
 
-[Click here to view the project](https://krishnakeshab-banik.github.io/portfolio_type1/) 🌍  
+[Click here to view the project](https://krishnakeshab-banik.github.io/Portfolio1/) 🌍  
 
 ## 🛠️ Tech Stack  
 
@@ -27,7 +27,7 @@ This portfolio was an **experimental project** to apply my **HTML and CSS** skil
 
 ## 📌 How to Run  
 
-No setup required! Simply visit the **[Live Demo](https://krishnakeshab-banik.github.io/portfolio_type1/)** to explore the project.  
+No setup required! Simply visit the **[Live Demo](https://krishnakeshab-banik.github.io/Portfolio1/)** to explore the project.  
 
 ## 🔗 Connect with Me  
 
