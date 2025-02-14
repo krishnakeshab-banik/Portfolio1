@@ -23,8 +23,7 @@ This portfolio was an **experimental project** to apply my **HTML and CSS** skil
 - **CSS** – Styling, animations, and responsiveness  
 
 ## 📷 Screenshots  
-
-
+![Screenshot 2025-02-15 015744](https://github.com/user-attachments/assets/a3cddff8-5bbb-44ac-bef6-f36e8b7ccf5c)
 
 ## 📌 How to Run  
 
